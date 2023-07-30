@@ -66,7 +66,7 @@ type ResultType = {type: 'region' | 'hospital' ; data : any[]};
 
                     <div className="footer">
         <div className="footer-icons">
-          <a target="_blank" href="https://www.github.com/cjwalt>
+          <a target="_blank" href="https://www.github.com/cjwalt">
             <FaGithub />
           </a>
           <a target="_blank" href="https://www.twitter.com/im_walt2">
