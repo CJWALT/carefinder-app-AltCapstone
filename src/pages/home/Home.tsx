@@ -66,13 +66,10 @@ type ResultType = {type: 'region' | 'hospital' ; data : any[]};
 
                     <div className="footer">
         <div className="footer-icons">
-          <a target="_blank" href="https://bit.ly/3WCeSG2">
+          <a target="_blank" href="https://www.github.com/cjwalt>
             <FaGithub />
           </a>
-          <a target="_blank" href="https://bit.ly/3WZhHRj">
-            <FaLinkedin />
-          </a>
-          <a target="_blank" href="https://bit.ly/3winMwM">
+          <a target="_blank" href="https://www.twitter.com/im_walt2">
             <FaTwitter />
           </a>
         </div>
